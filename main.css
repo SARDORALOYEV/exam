@@ -1,0 +1,61 @@
+.title{
+    background-color: rgb(68, 169, 231);
+    text-align: center;
+    border-radius: 30px;
+    border: 5px solid red;
+}
+.hayvonlarni{
+    color: brown;
+}
+.yashil{
+
+color: rgb(3, 199, 3);
+}
+.hayvv{
+    text-align: center;
+    background-color: yellow;
+    color: rgb(0, 30, 255);
+}
+.sssss{
+    text-align: center;
+}
+input{
+    width: 100%;
+    height: 35px;
+}
+.inoutt{
+    width: 20px;
+    height: 20px;
+
+}
+button{
+    background-color: aquamarine;
+    text-align: center;
+    width: 200px;
+    height: 50px;
+}
+.cars_list{
+    border: 1px solid yellow;
+    background-color: black;
+    color: white;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+.mmmm{
+    background-color: green;
+    color: white;
+    border: 1px solid yellow;
+}
+.mazza{
+    background-color: red;
+    columns: white;
+    border: 1px solid yellow;
+}
+.heey{
+    background-color: blue;
+    color: white;
+    border: 1px solid yellow;
+}
+table{
+    border-collapse: collapse;
+}
